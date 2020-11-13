@@ -9,5 +9,5 @@
  The supported versions are MQTT 3.1, MQTT 3.1.1, and MQTT 5.0.  
  Note: Qt MQTT is part of the Qt for Automation offering and not Qt. For further details please see Qt for Automation.
 
- 其中 qmqtt-master 是用于 Qt5的
-qmqtt-qt4-master 是用于 Qt4的
+鍏朵腑 qmqtt-master 鐢ㄤ簬qt5 宸ョ▼
+鍏朵腑 qmqtt-qt4-master 鐢ㄤ簬qt4 宸ョ▼
